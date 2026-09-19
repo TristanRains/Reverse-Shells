@@ -12,4 +12,4 @@ List of shells:
 
 * `other shells` - Shell that use telnet, awk, busy box and exported environment variables
 
-** To use a reverse shell, ensure that you open the shell and replace the address with your own attacker IP address and port number and set up a listener for the connection **
+**To use a reverse shell, ensure that you open the shell and replace the address with your own attacker IP address and port number and set up a listener for the connection**
